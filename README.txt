@@ -1,0 +1,1 @@
+The trash can can automatically interact with the button control switch, close to the sensor to open the lid, full-load alarm functions, and through the USART protocol will be able to transfer data to the computer display.
